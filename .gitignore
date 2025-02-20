@@ -1,0 +1,9 @@
+languages/
+mu-plugins/
+plugins/
+themes/
+upgrade/
+upgrade-temp-backup/
+index.php
+object-cache.php
+**/.DS_Store
